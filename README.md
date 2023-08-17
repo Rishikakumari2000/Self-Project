@@ -1,2 +1,2 @@
-# Python-for-everybody
+# Self Project
 basic python fundamentals
